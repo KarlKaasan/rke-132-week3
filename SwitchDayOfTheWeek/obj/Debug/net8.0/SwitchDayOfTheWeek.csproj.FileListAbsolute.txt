@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Week3\SwitchDayOfTheWeek\obj\Debug\net8.0\SwitchDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week3\SwitchDayOfTheWeek\obj\Debug\net8.0\SwitchDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week3\SwitchDayOfTheWeek\obj\Debug\net8.0\SwitchDayOfTheWeek.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week3\SwitchDayOfTheWeek\obj\Debug\net8.0\SwitchDayOfTheWeek.csproj.CoreCompileInputs.cache

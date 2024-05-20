@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\bin\Debug\net8.0\sagesrgevafwf.exe
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\bin\Debug\net8.0\sagesrgevafwf.deps.json
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\bin\Debug\net8.0\sagesrgevafwf.runtimeconfig.json
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\bin\Debug\net8.0\sagesrgevafwf.dll
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\bin\Debug\net8.0\sagesrgevafwf.pdb
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.dll
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\refint\sagesrgevafwf.dll
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.pdb
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\sagesrgevafwf.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week3\sagesrgevafwf\obj\Debug\net8.0\ref\sagesrgevafwf.dll

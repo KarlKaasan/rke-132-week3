@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Week3\dfvwevfs\bin\Debug\net8.0\dfvwevfs.exe
+C:\Users\Admin\source\repos\Week3\dfvwevfs\bin\Debug\net8.0\dfvwevfs.deps.json
+C:\Users\Admin\source\repos\Week3\dfvwevfs\bin\Debug\net8.0\dfvwevfs.runtimeconfig.json
+C:\Users\Admin\source\repos\Week3\dfvwevfs\bin\Debug\net8.0\dfvwevfs.dll
+C:\Users\Admin\source\repos\Week3\dfvwevfs\bin\Debug\net8.0\dfvwevfs.pdb
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.dll
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\refint\dfvwevfs.dll
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.pdb
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\dfvwevfs.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Week3\dfvwevfs\obj\Debug\net8.0\ref\dfvwevfs.dll
